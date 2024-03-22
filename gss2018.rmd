@@ -52,6 +52,14 @@ Those who voted when it came to the elections it looks like they were more educa
 #### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+  
+```{r}
+favstats(EDUC~VOTE16,data=GSSdata)
+```
+  
+As we concluded before with people with lower education did not vote. This is proven with the median, the mean, and even the max having just one more year then the no vote. 
+
+
 
 ### Inferential Results
 
