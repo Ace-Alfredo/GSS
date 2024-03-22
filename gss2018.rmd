@@ -57,7 +57,7 @@ Those who voted when it came to the elections it looks like they were more educa
 favstats(EDUC~VOTE16,data=GSSdata)
 ```
   
-As we concluded before with people with lower education did not vote. This is proven with the median, the mean, and even the max having just one more year then the no vote. 
+As we concluded before with people with lower education did not vote. This is proven with the median, the mean, and even the max having just one more year then the no vote. No vote always lower in the years of education then people who vote.
 
 
 
