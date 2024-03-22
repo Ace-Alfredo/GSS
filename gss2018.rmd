@@ -17,8 +17,6 @@ source("GrabData.R")
 ```
 
 
-
-
 #  Question 1
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
@@ -74,4 +72,6 @@ Looking at the two sample test we can see that inferential results. We see that 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+  
+In conclusion, with all the evidence shown above. We can clearly see that the people who tend to vote are normally higher educated. To the people who don't vote are usally not that highly educated.
+  
