@@ -46,7 +46,8 @@ By looking at the data you can see numerical variable in education and also has 
 ```{r}
 plot(EDUC~VOTE16,data=GSSdata)
 ```
-  
+Those who voted when it came to the elections it looks like they were more educated. The people with the lower education tend to have not voted. The people who voted averaged about 15 years of education and those who didnt vote average 13 years.
+
 
 #### Numerical Descriptive Results
 
